@@ -21,8 +21,8 @@ To write a program to implement the Decision Tree Regressor Model for Predicting
 ## Program:
 ~~~
 Program to implement the Decision Tree Regressor Model for Predicting the Salary of the Employee.
-Developed by: H.Syed Abdul Wasih
-Register Number: 212221240057  
+Developed by: Ragul AC
+Register Number: 212221240042  
 ~~~
 ~~~
 import pandas as pd
@@ -54,35 +54,35 @@ dt.predict([[5,6]])
 
 ### Data Head:
 
-![output](./img/1.png)
+![output](1.png)
 
 ### Data Info:
 
-![output](./img/2.png)
+![output](2.png)
 
 ### Data Isnull:
 
-![output](./img/3.png)
+![output](3.png)
 
 ### Data Head:
 
-![output](./img/4.png)
+![output](4.png)
 
 ### dt.fit:
 
-![output](./img/5.png)
+![output](5.png)
 
 ### MSE:
 
-![output](./img/6.png)
+![output](6.png)
 
 ### R2:
 
-![output](./img/7.png)
+![output](7.png)
 
 ### Predicted Value:
 
-![output](./img/8.png)
+![output](8.png)
 
 ## Result:
 
